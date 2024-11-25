@@ -1,0 +1,52 @@
+
+h1{
+    color: #4b0082;
+    text-align: center;
+    font-style: oblique;
+    font-family: Arial;
+    margin: 10px;
+    padding: 10px;
+}
+data-bs-spy{
+    position: relative;
+}
+.card{
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    width: 400px;
+}
+.container-for-card{
+    display: flex;
+    margin: 0;
+}
+.card-header{
+    font-size: 20px;
+    font-style: italic;
+}
+.card-body img{
+    height: 500px;
+    float: left;
+    margin-right: 30px;
+}
+.actor{
+    margin-top:20px;
+    margin-left:30px;
+}
+.alert{
+    margin-top: 70px;
+    width: 90%;
+    margin-left: auto;
+    margin-right: auto;
+}
+table{
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+    margin-left: auto;
+    margin-right: auto;
+}
+td,th {
+    background-color: darkorchid;
+  }
